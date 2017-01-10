@@ -1,5 +1,5 @@
 #vue-cnodejs
-> 基于vue.js 1.0编写的webapp。该项目的核心代码参考了[Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs)的1.0分支代码，使用了该目录结构[vue-vueRouter-webpack](https://github.com/shinygang/Vue-cnodejs)。
+> 基于vue.js 1.0编写的webapp。该项目的核心代码参考了[Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs)的1.0分支代码，使用了该目录结构[vue-vueRouter-webpack](https://github.com/icarusion/vue-vueRouter-webpack)。
 
 
 
